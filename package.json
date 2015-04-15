@@ -1,4 +1,8 @@
 {
 	"name" : "TicTacToe",
-	"main" : "game.html"
+	"main" : "game.html",
+	"window" : {
+		"width" : 600,
+		"heigth" : 100
+	}
 }
